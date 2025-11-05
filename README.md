@@ -76,42 +76,58 @@
 
 <div align="center">
 
-mermaid
+```mermaid
 mindmap
-  root((Sa2mon))
-    Web Development
-      Frontend
-      Backend
-      Fullstack Projects
-      Game Dev
-    Roblox Game Dev
-      Game Scripting
-      Bot Development
-      Anti-Cheat Systems
-      Game Mechanics
-    3D & Design
-      Modeling
+  root((Sanjeet Kotarya))
+    Biomedical Engineering
+      Medical Device Design
+      Healthcare Solutions
+      FDA Compliance
+      Research & Development
+    VR/AR Development
+      Immersive Experiences
+      Data Visualization
+      Game Development
+      Simulation Systems
+    3D Art & Design
+      Character Modeling
       Environment Design
-      Animations
-      UI/UX
-    AI & Automation
-      Discord Bots
+      Technical Art
+      Animation
+    AI & Machine Learning
+      Computer Vision
+      Natural Language Processing
+      Deep Learning
       Data Analysis
-      Automation Scripts
-      Machine Learning Basics
-</div>
-🎯 Current Focus
-<div align="center">
-🔥 Currently Working On	🎓 Learning	🎯 Goals 2025
-Advanced Roblox game scripting	Web3 / Blockchain basics	Launch multiple Roblox games
-Discord bot features & automation	AI-assisted coding	Contribute to open source projects
-Web development projects	Advanced JS frameworks	Build professional portfolio
+```
 
 </div>
-📈 Contribution Activity
+
+---
+
+## 🎯 Current Focus
+
 <div align="center">
 
+| 🔥 **Currently Working On** | 🎓 **Learning** | 🎯 **Goals 2025** |
+|:---|:---|:---|
+| Advanced VR medical training simulations | WebXR development | Launch 3 major VR projects |
+| AI-powered 3D model generation | Real-time ray tracing | Contribute to open source |
+| Biomedical device prototyping | Quantum computing basics | Speaking at tech conferences |
+
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkotarya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+
+</div>
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=Sa2mon&icon=0&color=0)](https://visitcount.itsvg.in)
 
