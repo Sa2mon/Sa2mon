@@ -48,6 +48,7 @@
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
 ### 🎮 Roblox games
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
