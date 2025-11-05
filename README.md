@@ -5,10 +5,7 @@
 </h1>
 
 # 💫 About Me:
-Hey, I'm Saimon — a passionate web developer, Roblox game creator, and Discord bot dev.  
-I enjoy working on creative ideas and turning them into real, functional projects.  
-I'm always exploring new techs, improving my skills, and pushing my limits to build better stuff every day.  
-Currently focusing on **web apps**, **game scripts**, and **automation projects**.
+**Hey, I'm Saimon. a passionate web dev, Roblox game creator, and Discord bots dev. I enjoy working on creative ideas and turning them into real, functional projects.<br>I'm always exploring new techs, improving my skills, and pushing my limits to build better stuff every day.<br>Currently focusing on web apps, game scripts, and automation projects**.
 
 ---
 
