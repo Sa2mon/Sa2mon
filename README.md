@@ -72,6 +72,47 @@
 
 ---
 
+## 🌟 Professional Focus Areas
+
+<div align="center">
+
+mermaid
+mindmap
+  root((Sa2mon))
+    Web Development
+      Frontend
+      Backend
+      Fullstack Projects
+      Game Dev
+    Roblox Game Dev
+      Game Scripting
+      Bot Development
+      Anti-Cheat Systems
+      Game Mechanics
+    3D & Design
+      Modeling
+      Environment Design
+      Animations
+      UI/UX
+    AI & Automation
+      Discord Bots
+      Data Analysis
+      Automation Scripts
+      Machine Learning Basics
+</div>
+🎯 Current Focus
+<div align="center">
+🔥 Currently Working On	🎓 Learning	🎯 Goals 2025
+Advanced Roblox game scripting	Web3 / Blockchain basics	Launch multiple Roblox games
+Discord bot features & automation	AI-assisted coding	Contribute to open source projects
+Web development projects	Advanced JS frameworks	Build professional portfolio
+
+</div>
+📈 Contribution Activity
+<div align="center">
+
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=Sa2mon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
