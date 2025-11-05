@@ -78,7 +78,7 @@
 
 ```mermaid
 mindmap
-  root((Sanjeet Kotarya))
+  root((Saimon))
     Biomedical Engineering
       Medical Device Design
       Healthcare Solutions
@@ -123,7 +123,7 @@ mindmap
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkotarya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sa2mon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 </div>
 
