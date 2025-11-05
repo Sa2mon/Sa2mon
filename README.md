@@ -51,7 +51,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Roblos Studio](https://img.shields.io/badge/roblox%20studio-1446FF?style=for-the-badge&logo=roblox%20studio&logoColor=white)
 
 ### 🤖 Discord bots
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
