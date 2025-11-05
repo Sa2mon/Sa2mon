@@ -52,10 +52,20 @@ Currently focusing on **web apps**, **game scripts**, and **automation projects*
 
 ## ⚡ Stats ⚡
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Sa2mon&theme=tokyonight&hide_border=false&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sa2mon&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" alt="readme stats" />
+  
+  <!-- ✅ Fixed GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Sa2mon&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
   <br/>
+
+  <!-- ✅ General Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sa2mon&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" alt="readme stats" />
+  
+  <br/>
+
+  <!-- ✅ Top Languages -->
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa2mon&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide=html,css" alt="top langs"/>
+
 </div>
 
 <br/><br/>
