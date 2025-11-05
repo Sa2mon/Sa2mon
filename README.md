@@ -57,7 +57,7 @@ Currently focusing on **web apps**, **game scripts**, and **automation projects*
 <img src="https://github-readme-stats.vercel.app/api?username=Sa2mon&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 
 <!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Sa2mon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sa2mon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <!-- 🧠 Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa2mon&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
