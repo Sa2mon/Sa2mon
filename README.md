@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Saimon!;" />
 </h1>
 
-# ✨ About:
+# 💫 About:
 **Hey, I'm Saimon. a passionate web dev, Roblox game creator, and Discord bots dev. I enjoy working on creative ideas and turning them into real, functional projects.<br>I'm always exploring new techs, improving my skills, and pushing my limits to build better stuff every day.<br>Currently focusing on web apps, game scripts, and automation projects**.
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ Stats:
+## ⚡ Github Stats:
 <div align="center">
 
 <!-- 📊 Main Stats -->
@@ -65,7 +65,7 @@
 
 ---
 
-## 💰 You can help me by Donating:
+## 💰 Donating, TY <3 :
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sa2mon)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sa2mon)
 
