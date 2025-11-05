@@ -18,5 +18,6 @@ Hey, I'm Saimon. a passionate web dev, Roblox game creator, and Discord bots dev
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sa2mon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sa2mon) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/Sa2mon/Sa2mon/blob/output/github-snake-dark.svg)
