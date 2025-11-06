@@ -105,29 +105,28 @@
 
 <div align="center">
 
-```mermaid
-mindmap
+```mindmap
   root((Saimon))
-    Biomedical Engineering
-      Medical Device Design
-      Healthcare Solutions
-      FDA Compliance
-      Research & Development
-    VR/AR Development
-      Immersive Experiences
-      Data Visualization
-      Game Development
-      Simulation Systems
+    Game Development
+      Roblox Studio
+      Scripting (Lua)
+      Animation
+      Modeling & Assets
+    Web Development
+      Frontend (HTML, CSS, JS)
+      Backend (PHP, Node.js)
+      Databases (MySQL, PostgreSQL)
+      UI/UX Design (Figma, Photoshop, Canva)
+    Discord Bots
+      Bot Development (JavaScript, Python)
+      VS Code
+      Discord Developer Portal
+      Git & GitHub
     3D Art & Design
-      Character Modeling
+      Character Modeling (Blender)
       Environment Design
       Technical Art
-      Animation
-    AI & Machine Learning
-      Computer Vision
-      Natural Language Processing
-      Deep Learning
-      Data Analysis
+      Animation & Rigging
 ```
 
 </div>
