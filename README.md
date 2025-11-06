@@ -140,9 +140,9 @@ mindmap
 
 | 🔥 **Currently Working On** | 🎓 **Learning** | 🎯 **Goals 2025** |
 |:---|:---|:---|
-| Advanced VR medical training simulations | WebXR development | Launch 3 major VR projects |
-| AI-powered 3D model generation | Real-time ray tracing | Contribute to open source |
-| Biomedical device prototyping | Quantum computing basics | Speaking at tech conferences |
+| Nothing | Nothing | Nothing |
+| Nothing | Nothing | Nothing |
+| Nothing | Nothing | Nothing |
 
 </div>
 
