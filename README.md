@@ -56,7 +56,9 @@
 
 ### 🤖 Discord bots
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VsCode](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![VsCode](<div align="center">
+	<code><img width="10" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+</div>)
 ![Discord Dev](https://img.shields.io/badge/Discord%20Dev%20Portal-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
