@@ -105,7 +105,8 @@
 
 <div align="center">
 
-```mindmap
+```mermaid
+mindmap
   root((Saimon))
     Game Development
       Roblox Studio
