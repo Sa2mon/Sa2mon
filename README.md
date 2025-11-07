@@ -120,17 +120,17 @@ mindmap
       Roblox Studio
       Scripting (Lua)
       Animation
-      Modeling & Assets
+      Modeling & Builder
     Web Development
       Frontend (HTML, CSS, JS)
       Backend (PHP, Node.js)
       Databases (MySQL, PostgreSQL)
-      UI/UX Design (Figma, Photoshop, Canva)
     Discord Bots
-      Bot Development (JavaScript, Python)
+      Bot Development (JavaScript, Python, TypeScrip)
       VS Code
       Discord Developer Portal
       Git & GitHub
+      Node.js
     3D Art & Design
       Character Modeling (Blender)
       Environment Design
