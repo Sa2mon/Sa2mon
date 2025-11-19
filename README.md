@@ -8,17 +8,14 @@
 
 <p align="center">
   <em>Full-Stack Web Developer and Discord Bot Developer (Full-stack soon..)</em>
-  
-  ---
-  
-  <em>Creator VixelBot - Creator ArabiaDevelopers.</em>
 </p>
 
 ---
 
 ### About Me:
--  I'm focused on developing as a **Full-Stack** Discord bot Developer..
--  Ask me about anything tech-related that comes to mind I'm always happy to help!
+-  I'm focused on developing as a **Full-Stack** Discord bot Developer.
+-  Creator **VixelBot** - Creator **ArabiaDevelopers**.
+-  Ask me about anything tech-related that comes to mind I'm always happy to help!.
 
 ---
 
