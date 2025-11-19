@@ -37,7 +37,7 @@
 
 #### Tools & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,arch,discord,blender,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,discord,blender,mysql,mongodb" />
 </p>
 
 ### Let's Connect:
