@@ -18,26 +18,21 @@
 - **VixelBot** - Advanced Discord bot with powerful features
 - **ArabiaDevelopers** - Community platform for developers
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-#### 💻 Programming Languages
+### Programming Languages :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,c,ruby,go,rust,lua,julia,bash" />
 </p>
 
-#### 🧩 Frameworks & Libraries
+#### Frameworks & Libraries :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs" />
 </p>
 
-#### 🗄️ Databases
+#### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite" />
-</p>
-
-#### 🧠 Other Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 #### 🧰 Tools & Apps
