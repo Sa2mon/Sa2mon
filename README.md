@@ -25,7 +25,7 @@ I'm a passionate developer focused on building modern web applications and Disco
 ---
 
 <p align="center">
-  <h2 align="center">I'm ready to embrace knowledge and expertise from around the globe, and I'm dedicated to achieving it. And you can! but do it... ⏳</h2>
+  <h5 align="center">I'm ready to embrace knowledge and expertise from around the globe, and I'm dedicated to achieving it. And you can! but do it... ⏳</h5>
 </p>
 
 ---
