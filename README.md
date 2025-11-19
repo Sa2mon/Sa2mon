@@ -4,10 +4,6 @@
 
 <h1 align="center">Hello World! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shab7-developer&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
-
 ---
 
 ### Languages and Tools:
