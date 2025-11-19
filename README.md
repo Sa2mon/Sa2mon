@@ -22,6 +22,13 @@
 
 - **Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!**
 
+### 🎧 Discord Status
+<p align="center">
+  <a href="https://discord.com/users/246354195979042817">
+    <img src="https://lanyard.cnrad.dev/api/246354195979042817?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Status"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:sa2mondev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
