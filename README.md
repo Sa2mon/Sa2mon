@@ -20,7 +20,7 @@
 
 ### Let's Connect:
 
-💬 Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!
+- **Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!**
 
 ---
 
