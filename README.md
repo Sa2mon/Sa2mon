@@ -22,7 +22,7 @@
 
 ### Programming Languages :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,nodejs,lua,ruby,bash,shell,cplusplus"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,nodejs,lua,ruby,bash,shell"/>
 </p>
 
 #### Frameworks & Libraries :
@@ -43,13 +43,13 @@
   <a href="mailto:sa2mondev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
   </a>
-  <a href="https://discord.gg/fDkjPNN6sP" target="_blank">
+  <a href="https://discord.gg/sa2mon" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="48px" />
   </a>
-  <a href="https://x.com/AmtiXDev" target="_blank">
+  <a href="https://x.com/sa2mon_" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="48px" />
   </a>
-  <a href="https://www.instagram.com/amtixdev" target="_blank">
+  <a href="https://www.instagram.com/sa2mon" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
   </a>
 </p>
