@@ -22,17 +22,17 @@
 
 ### Programming Languages :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,c,ruby,go,rust,lua,julia,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c#,php,c,go,rust,lua,bash" />
 </p>
 
 #### Frameworks & Libraries :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs,flask,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,discordjs,flask,django,bun" />
 </p>
 
 ### Tools & Database :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,discord,blender,mysql,mongodb,vscode,github,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=windows,discord,blender,mysql,mongodb,vscode,github,bun,postgresql,firebase" />
 </p>
 
 ### Let's Connect:
