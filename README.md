@@ -27,7 +27,7 @@
 
 #### Frameworks & Libraries :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs,discordpy,flask,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs,flask,django" />
 </p>
 
 ### Tools & Database :
