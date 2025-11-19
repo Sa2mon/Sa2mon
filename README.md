@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite" />
 </p>
 
-#### 🧰 Tools & Apps
+#### Tools & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,arch,discord,blender,ps,ae" />
 </p>
