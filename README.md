@@ -22,6 +22,8 @@ I'm a passionate developer focused on building modern web applications and Disco
 
 💬 Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!
 
+---
+
 <p align="center">
   <em>"I'm ready to embrace knowledge and expertise from around the globe, and I'm dedicated to achieving it. And you can! but do it... ⏳"</em>
 </p>
