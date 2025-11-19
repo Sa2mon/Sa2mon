@@ -30,14 +30,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs" />
 </p>
 
-#### Databases
+### Tools & Database :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite" />
-</p>
-
-#### Tools & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,discord,blender,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=windows,discord,blender,mysql,mongodb,vscode,github,postgresql,firebase" />
 </p>
 
 ### Let's Connect:
@@ -57,12 +52,6 @@
   <a href="https://www.instagram.com/amtixdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <h5 align="center">I'm ready to embrace knowledge and expertise from around the globe, and I'm dedicated to achieving it. And you can! but do it... ⏳</h5>
 </p>
 
 ---
