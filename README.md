@@ -24,8 +24,8 @@
 
 ### 🎧 Discord Status
 <p align="center">
-  <a href="https://discord.com/users/246354195979042817">
-    <img src="https://lanyard.cnrad.dev/api/246354195979042817?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Status"/>
+  <a href="https://discord.com/users/541600934493552661">
+    <img src="https://lanyard.cnrad.dev/api/541600934493552661?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Status"/>
   </a>
 </p>
 
