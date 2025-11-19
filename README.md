@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=808080&height=280&section=header&text=Saimon-(sa2mon)&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=808080&height=280&section=header&text=Saimon&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm shab7-developer </h1>
