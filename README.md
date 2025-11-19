@@ -17,10 +17,6 @@
 -  I'm focused on developing as a **Full-Stack** Discord bot Developer..
 -  Ask me about anything tech-related that comes to mind I'm always happy to help!
 
-###  My Experience:
-- **Discord Bot Developer** (2023 - Now)
-- **Developer web** (2022 - Now)
-
 ---
 
 - **I'm ready to embrace knowledge and expertise from around the globe, and I'm dedicated to achieving it. And you can! but do it... ⏳**
