@@ -22,7 +22,7 @@
 
 ### Programming Languages :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c#,php,c,go,rust,lua,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c#,lua" />
 </p>
 
 #### Frameworks & Libraries :
