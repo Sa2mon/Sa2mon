@@ -7,16 +7,16 @@
 ---
 
 <p align="center">
-  <em>With over 3 years of hands-on experience, I specialize in creating robust digital solutions from concept to deployment.</em>
+  <em>Full-Stack Web Developer and Discord Bot Developer (Full-stack soon..)</em>
+  <em>Creator VixelBot - Creator ArabiaDevelopers.</em>
 </p>
 
 ---
 
 ### About Me:
--  I’m currently working as a **Senior Full Stack Developer**.
--  I’m currently learning **PhotoShop**.
--  Ask me about **FrontEnd, and BackEnd, FullStack in general**.
+-  I'm focused on developing as a **Full-Stack** Discord bot Developer..
+-  Ask me about anything tech-related that comes to mind I'm always happy to help!
 
 ###  My Experience:
-- **Senior Full Stack Developer** (2023 - Present)
+- **Discord Bot Developer** (2023 - Present)
 - **Junior Developer** (2021 - 2023)
