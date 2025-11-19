@@ -12,7 +12,7 @@
 
 ### About Me:
 
-I'm a passionate developer focused on building modern web applications and Discord bots. Currently expanding my expertise in full-stack development.
+- I'm a passionate developer building modern web applications and Discord bots. Currently expanding my expertise to become a full-stack Discord bot developer.
 
 **Projects I'm proud of:**
 - **VixelBot** - Advanced Discord bot with powerful features
