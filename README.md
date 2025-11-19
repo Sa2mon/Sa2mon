@@ -3,26 +3,10 @@
 </p>
 
 <h1 align="center">Hello World! 👋</h1>
-<h3 align="center">A passionate Full Stack Developer from Earth </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shab7-developer&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <em>With over 3 years of hands-on experience, I specialize in creating robust digital solutions from concept to deployment.</em>
-</p>
-
----
-
-### About Me:
--  I’m currently working as a **Senior Full Stack Developer**.
--  I’m currently learning **PhotoShop**.
--  Ask me about **FrontEnd, and BackEnd, FullStack in general**.
-
-###  My Experience:
-- **Senior Full Stack Developer** (2023 - Present)
-- **Junior Developer** (2021 - 2023)
 
 ---
 
@@ -76,11 +60,3 @@
 [![](https://visitcount.itsvg.in/api?id=Sa2mon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-![snake gif](https://github.com/Sa2mon/Sa2mon/blob/output/github-snake-dark.svg)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
