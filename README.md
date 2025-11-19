@@ -20,15 +20,3 @@
 ###  My Experience:
 - **Senior Full Stack Developer** (2023 - Present)
 - **Junior Developer** (2021 - 2023)
-
----
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sa2mon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
-
-</div>
