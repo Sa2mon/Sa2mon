@@ -10,7 +10,7 @@
 
 ---
 
-### 💡 About Me
+### About Me:
 
 I'm a passionate developer focused on building modern web applications and Discord bots. Currently expanding my expertise in full-stack development.
 
@@ -18,7 +18,7 @@ I'm a passionate developer focused on building modern web applications and Disco
 - **VixelBot** - Advanced Discord bot with powerful features
 - **ArabiaDevelopers** - Community platform for developers
 
-### 🤝 Let's Connect
+### Let's Connect:
 
 💬 Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!
 
