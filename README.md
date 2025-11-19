@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColor=ADD8E6,00008B&height=280&section=header&text=Saimon&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner with blue gradient"/>
 </p>
 
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Hello World!</h1>
 
 ---
 
 <p align="center">
-  <em>Full-Stack Web Developer and Discord Bot Developer (Full-stack soon..)</em>
+  <em>Full-Stack Web Developer --- Discord Bot Developer (Full-stack soon..)</em>
 </p>
 
 ---
