@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColor=ff66a4,ff0000,ffcc00,66ff66,3399ff&height=280&section=header&text=Saimon&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner with rainbow gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradientColor=ff66a4,ff0000,ffcc00,66ff66,3399ff&height=280&section=header&text=Saimon&fontSize=80&fontColor=fff&animation=shake" alt="header banner with rainbow gradient"/>
 </p>
 
 <h1 align="center">Hello World! 👋</h1>
