@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=808080&height=280&section=header&text=Saimon&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
 </p>
 
-<h1 align="center">Hi there, I'm shab7-developer </h1>
+<h1 align="center">Hello World! 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from Earth </h3>
 
 <p align="center">
