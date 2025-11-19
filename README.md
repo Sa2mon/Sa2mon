@@ -14,7 +14,7 @@
 
 - **I'm a developer building web and Discord bots. Currently expanding my expertise to become a full-stack Discord bot developer.**
 
-**Projects I'm proud of:**
+## **Projects I'm proud of:**
 - **VixelBot** - Advanced Discord bot with powerful features
 - **ArabiaDevelopers** - Community platform for developers
 
