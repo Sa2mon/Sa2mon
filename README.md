@@ -5,7 +5,7 @@
 <h2 align="center">Hello World! 👋</h2>
 
 <p align="center">
-  <strong>Full-Stack Web Developer | Discord Bot Developer</strong>
+  <strong>Software Engineer | Full-Stack Web | AI Engineer | Discord Bots Developer | Web Security Awareness</strong>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 #### Frameworks & Libraries :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,discordjs,flask,django,bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,discordjs,flask,django,bun,net,vue" />
 </p>
 
 ### Tools & Database :
