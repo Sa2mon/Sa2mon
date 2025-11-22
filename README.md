@@ -12,11 +12,7 @@
 
 ### About Me:
 
-- **I'm a developer building web and Discord bots. Currently expanding my expertise to become a full-stack Discord bot developer.**
-
-#### **Projects I'm proud of:**
-- **VixelBot** - Advanced Discord bot with powerful features
-- **ArabiaDevelopers** - Community platform for developers
+- **tech enthusiast | Software Engineer | Full-Stack Web | AI Engineer | Discord Bots developer | Web Security & bugs hunter | Always learning, always building - Saimon/Amr**
 
 ## Tech Stack
 
@@ -37,7 +33,7 @@
 
 ### Let's Connect:
 
-- **Feel free to reach out if you have questions about web development, Discord bots, or tech in general. Always happy to help!**
+- **Feel free to reach out if you have questions about full-stack web development, AI projects, Discord bots, or web security. Always happy to share knowledge and help fellow devs!**
 
 <p align="center">
   <a href="mailto:sa2mondev@gmail.com" target="_blank">
