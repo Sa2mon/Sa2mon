@@ -12,7 +12,7 @@
 
 ### About Me:
 
-- **tech enthusiast | Software Engineer | Full-Stack Web | AI Engineer | Discord Bots developer | Web Security & bugs hunter | Always learning, always building - Saimon/Amr**
+- **tech enthusiast | Software Engineer | Full-Stack Web | AI Engineer | Discord Bots developer | Web Security & bugs hunter | Always learning, always building - Saimon/Amr , Egypt**
 
 ## Tech Stack
 
